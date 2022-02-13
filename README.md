@@ -8,3 +8,5 @@ pip2 install mechanize
 git clone https://github.com/JokarSojib/JokarSojib
  ls
 cd love.py
+ls
+Python2love.py
