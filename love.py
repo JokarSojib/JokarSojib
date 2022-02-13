@@ -37,12 +37,12 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Asif Javed
+   jOKAR SOJIB
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
+   THE Mymensingh
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
-   pakistani hackers
+   Bangladesh hackers
    ℒℴνℯ ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mlove
